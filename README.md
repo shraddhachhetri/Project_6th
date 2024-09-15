@@ -1,2 +1,3 @@
 Author- Shraddha Basnet
-Started from- 6/26/2024
+Started from- 9/15/2024
+Project Title- Adornment Emporium
